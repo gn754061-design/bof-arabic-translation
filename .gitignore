@@ -1,0 +1,11 @@
+# Binary/ROM files
+*.gba
+*.sav
+
+# Log files
+*.txt
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
